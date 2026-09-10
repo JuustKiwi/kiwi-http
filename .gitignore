@@ -1,0 +1,5 @@
+.obj/
+kiwi-http
+logs/*.log
+*.o
+.vscode/
